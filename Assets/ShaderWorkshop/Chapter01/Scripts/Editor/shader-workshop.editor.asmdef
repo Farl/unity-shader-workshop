@@ -1,0 +1,18 @@
+{
+    "name": "shader-workshop.editr",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9db53a2fdb56b4b199ed17a5ce48c810"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
