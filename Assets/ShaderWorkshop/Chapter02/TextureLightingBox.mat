@@ -70,7 +70,7 @@ Material:
     - _Stroke3: 1
     - _Stroke_Force: 0.2
     m_Colors:
-    - _Color: {r: 0.3215686, g: 0.6830726, b: 0.8666667, a: 1}
+    - _Color: {r: 0.24110004, g: 0.5144755, b: 0.8113208, a: 1}
     - _Polar_Scale: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 1, g: 0.972678, b: 0.43867922, a: 1}
     - _SpecColor2: {r: 0.9618945, g: 0, b: 1, a: 0}
