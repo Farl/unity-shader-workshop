@@ -15543,11 +15543,11 @@ MonoBehaviour:
     - rid: 5018538899204210689
       type: {class: MaterialBlockController/Data, ns: ShaderWorkshop, asm: shader-workshop}
       data:
-        updateMethod: 0
-        propertyName: 
-        propertyType: 0
+        updateMethod: 1
+        propertyName: _Rate
+        propertyType: 1
         vectorValue: {x: 0, y: 0, z: 0, w: 0}
-        floatValue: 0
+        floatValue: 0.39
         colorValue: {r: 0, g: 0, b: 0, a: 0}
         targetTransform: {fileID: 0}
 --- !u!1 &1364955241
